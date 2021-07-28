@@ -8,6 +8,7 @@ import webbrowser
 import os
 import smtplib
 
+#Starting Process msg
 print("Initializing Jarvis")
 
 
